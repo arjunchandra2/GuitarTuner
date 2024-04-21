@@ -1,6 +1,4 @@
 """
-This code is for testing different modules for Python audio.
-Current packages installed: Aubio, Numpy, Pydub
 Arjun Chandra
 """
 import pyaudio
